@@ -1,4 +1,4 @@
-![HammerHead Logo](./HammerHead.png)
+![HammerHead Logo](https://raw.githubusercontent.com/alvieg/alvieg/HammerHead.png)
 
 
 # 🦈/🤕🔨 HammerHead
