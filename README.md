@@ -1,4 +1,4 @@
-![HammerHead Logo](https://raw.githubusercontent.com/alvieg/HammerHead-Games/main/static/assets/favicon.ico)
+![HammerHead Logo](./HammerHead.png)
 
 
 # 🦈/🤕🔨 HammerHead
