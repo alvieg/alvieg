@@ -3,7 +3,7 @@
 
 # 🦈/🤕🔨 HammerHead
 
-I'm a developer interested in web apps and game websites.
+I'm a developer interested in web apps and game websites using APIs and backend servers.
 
 ---
 
@@ -22,14 +22,16 @@ I'm a developer interested in web apps and game websites.
 ---
 
 ## 💎 Favorite Language  
-[**Svelte**](https://svelte.dev) — The JavaScript Library that basically writes better versions of HTML. Like React or Vue, but better.
+
+[**SvelteKit**](https://svelte.dev) — The JS framework that allows for dynamic pages and routing. It allows for easier coding with components that can be reused and layouts that define how a page should look. It also has backend servers that can be used for any project.
 
 ---
 
 ## 🔧 Currently Building
 
-### HammerHead Games  
-  A game website based off [ColdNova](https://coldnova.xyz). Currently adding 75+ games
+### [SNKRFinder](https://snkrfinder.net)
+
+A website that I am building with [Developers Fun](https://github.com/developers-fun). It fetches Sneakers from GOAT, FlightClub and StockX and provides an easy access point to find good, cheap sneakers. It uses SvelteKit and the sneaks-api package.
 
 ---
 
@@ -53,6 +55,7 @@ If you want to help me with learning these email me at [hammerhead.contact2025@g
 ## 🤓+🤓 Developers Who Help Me
 
 I am helped out by the great [Developers Fun](https://github.com/developers-fun) 🛐🛐
+(Not really so much any more, were more like partners where I do frontend and he does backend and pays for stuff)
 
 ## 😠 Things That Annoy Me
 
@@ -70,10 +73,10 @@ I am helped out by the great [Developers Fun](https://github.com/developers-fun)
 - Node.JS: 24.3.0 with PNPM, NPM and Yarn
 - Computer: Lenovo Yoga 7 16" with AMD Ryzen 5
 - Browser: Opera
-- AI: [Microsoft Copilot](https://copilot.microsoft.com)
+- AI: [ChatGPT](https://chatgpt.com)
 - Search Engine: DuckDuckGo
 - Terminal: Windows Powershell
-- Site Host: [Vercel](https://vercel.com)
+- Site Host: [Vercel](https://vercel.com) - For Static Sites and Basic Servers and [Render](https://render.com) For more advanced sites using complex backends.
 
 ## 🤙📧 Contact Me
 
