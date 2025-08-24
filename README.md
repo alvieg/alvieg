@@ -12,14 +12,11 @@ Hi! I'm a developer passionate about **web apps** and **game websites** using AP
 | Proficient / Know | Learning / Working On | Need Help With |
 | ----------------- | --------------------- | -------------- |
 | Python            | C++                   | TypeScript     |
-| HTML              |                       | Rust           |
+| HTML              | Ruby(Sinatra)         | SQL            |
 | Svelte            |                       | PHP            |
 | Markdown          |                       | Swift          |
-| JavaScript        |                       | C#             |
-| CSS               |                       | R              |
-|                   |                       | Ruby           |
-|                   |                       | Vue            |
-|                   |                       | SQL            |
+| JavaScript        |                       | Vue            |
+| CSS               |                       | Ruby On Rails  |
 
 Want to help me learn? Email me: [hammerhead.contact2025@gmail.com](mailto:hammerhead.contact2025@gmail.com)
 
@@ -58,6 +55,8 @@ Big thanks to [Developers Fun](https://github.com/developers-fun) 🛐 — more 
 - Repo branch chaos
 - Netlify (Vercel is better)
 - Securly
+- Render Deployments (So slow)
+- Render Websites (Come on, 50 second page loads)
 
 ---
 
@@ -70,7 +69,7 @@ Big thanks to [Developers Fun](https://github.com/developers-fun) 🛐 — more 
 - **AI:** [ChatGPT](https://chatgpt.com)
 - **Search Engine:** DuckDuckGo
 - **Terminal:** Windows PowerShell
-- **Hosting:** [Vercel](https://vercel.com) for static/basic sites, [Render](https://render.com) for advanced backends
+- **Hosting:** [Vercel](https://vercel.com) for static/basic sites, [Render](https://render.com) for advanced backends and for lack of a better option.
 
 ---
 
