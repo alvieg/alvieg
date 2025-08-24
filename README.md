@@ -31,12 +31,13 @@ Want to help me learn? Email me: [hammerhead.contact2025@gmail.com](mailto:hamme
 
 ## 🔧 Currently Building
 
-| Project          | Description                                                          | Stack                                                             | Live Link                                                                 | Repo Link                                                                 |
+| Project          | Description                                                          | Stack                                                             | Live Link                                                                 | Repo Link                                                                |
 | ---------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | **SNKRFinder**   | Sneaker finder pulling data from GOAT, FlightClub, and StockX.       | SvelteKit, [sneaks-api](https://www.npmjs.com/package/sneaks-api) | [snkrfinder.net](https://snkrfinder.net)                                  | [GitHub](https://github.com/Jalvie/snkrfinder)                           |
 | **TVDb**         | Database of movies, TV shows, and people in the film industry.       | SvelteKit, [TMDb API](https://themoviedb.org)                     | [tvdb.vercel.app](https://tvdb.vercel.app)                                | [GitHub](https://github.com/alvieg/tvdb)                                 |
 | **BiteFinder**   | Recipe finder with options from pescatarian to chemo-friendly meals. | SvelteKit, [Spoonacular API](https://spoonacular.com), Supabase   | [bite-finder.vercel.app](https://bite-finder.vercel.app)                  | [GitHub](https://github.com/alvieg/bitefinder)                           |
-| **Stock Viewer** | Stock data dashboard with watchlists.                                | Python, Flask, Supabase, [Finnhub API](https://finnhub.io)        | [stock-viewer-jtax.onrender.com](https://stock-viewer-jtax.onrender.com) | [GitHub](https://github.com/alvieg/stock-viewer)                          |
+| **Stock Viewer** | Stock data dashboard with watchlists.                                | Python, Flask, Supabase, [Finnhub API](https://finnhub.io)        | [stock-viewer-jtax.onrender.com](https://stock-viewer-jtax.onrender.com)  | [GitHub](https://github.com/alvieg/stock-viewer)                         |
+|**RainAndShine**  | Weather website with current location.                               | SvelteKit, [OpenWeather API](https://openweathermap.org)          | [rainandshine.vercel.app](https://rainandshine.vercel.app)                | [GitHub](https://github.com/avieg/rainandshine)                          |
 
 ---
 
