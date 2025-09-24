@@ -1,4 +1,4 @@
-![HammerHead Logo](./logo.png)
+![HammerHead Logo](./hammerheadx.png)
 
 
 # 🦈/🤕🔨 HammerHead
